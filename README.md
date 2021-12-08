@@ -4,7 +4,7 @@
 Kalkulator HTML5
 
 
-Ma'af digambar nya belum ada operator pengurangan 
+<i>Ma'af digambar nya belum ada operator pengurangan 
 Tapi udah di tambah 👍😄
 
 Ini boleh di coba untuk asah skill html5

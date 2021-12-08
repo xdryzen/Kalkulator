@@ -1,0 +1,25 @@
+*{
+	background:url("bg.png");
+	//animation:efek 0.50s infinite;
+	font-family:courier;
+	font-size:30;
+}
+#canvas1{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	height:477;
+	width:360;
+	background:url("bg.png");
+	border:2px solid black;
+}
+
+#display{
+	text-align: center;
+}
+
+/*
+STD CSS
+ahmad
+*/
